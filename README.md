@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devshina
 - 👀 I’m interested in CODES
 - 🌱 I’m fivem developer.
-- 💞️ I’m looking to a baby
+- 💞️ I’m looking for a baby
 - 📫 Just PM ME
 
 <!---
