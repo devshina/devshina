@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @devshin a CEO of Shin Nation Development
 
-### ⚡ FiveM Developer & Script Enthusiast
+### ⚡ FiveM Developer & Script Enthusiast | Since 2017
 I specialize in creating immersive environments and custom functionalities for FiveM servers. I’m passionate about clean code, optimized performance, and pushing the limits of what's possible in GTA V.
 
 ---
@@ -13,17 +13,20 @@ I specialize in creating immersive environments and custom functionalities for F
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** Lua, JavaScript (Node.js), HTML/CSS (for NUI)
-* **Frameworks:** QB-Core, ESX, OxLib
-* **Tools:** Git, VS Code, HeidiSQL, MSSQL
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Game Logic** | Lua, C# (.NET) |
+| **Web & Backend** | PHP, JavaScript, HTML/CSS |
+| **Databases** | MySQL, MariaDB, MongoDB, MSSQL |
+| **Dev Tools** | Git, VS Code, OxLib, VS Studio |
 
 ---
 
 ### 📞 Connect With Me
 If you have a project in mind or just want to talk shop, feel free to reach out!
 
-* **Discord Server:** [Join my community here](https://discord.gg/8dAuejWGTw)
-* 📫 **Direct Message:** Just PM me right here on GitHub or via Discord!
+* 🌐 **Discord Community:** [Join my server](YOUR_DISCORD_LINK_HERE)
+* 📫 **Contact:** Drop me a PM here on GitHub!
 
 ---
 
