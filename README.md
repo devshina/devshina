@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @devshin a CEO of Shin Nation Development
+# 👋 Hi, I’m @devshin a Founder of [Shin Nation Development](https://discord.gg/8dAuejWGTw)!
 
 ### ⚡ FiveM Developer & Script Enthusiast | Since 2017
 I specialize in creating immersive environments and custom functionalities for FiveM servers. I’m passionate about clean code, optimized performance, and pushing the limits of what's possible in GTA V.
@@ -25,7 +25,7 @@ I specialize in creating immersive environments and custom functionalities for F
 ### 📞 Connect With Me
 If you have a project in mind or just want to talk shop, feel free to reach out!
 
-* 🌐 **Discord Community:** [Join my server](YOUR_DISCORD_LINK_HERE)
+* 🌐 **Discord Community:** [Join my server](https://discord.gg/8dAuejWGTw)
 * 📫 **Contact:** Drop me a PM here on GitHub!
 
 ---
